@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/safebuild/static/css/main.f195c00c.chunk.css",
+    "main.js": "/safebuild/static/js/main.8e23b145.chunk.js",
+    "main.js.map": "/safebuild/static/js/main.8e23b145.chunk.js.map",
+    "runtime-main.js": "/safebuild/static/js/runtime-main.12a230f5.js",
+    "runtime-main.js.map": "/safebuild/static/js/runtime-main.12a230f5.js.map",
+    "static/js/2.9704305a.chunk.js": "/safebuild/static/js/2.9704305a.chunk.js",
+    "static/js/2.9704305a.chunk.js.map": "/safebuild/static/js/2.9704305a.chunk.js.map",
+    "static/js/3.d45f9413.chunk.js": "/safebuild/static/js/3.d45f9413.chunk.js",
+    "static/js/3.d45f9413.chunk.js.map": "/safebuild/static/js/3.d45f9413.chunk.js.map",
+    "index.html": "/safebuild/index.html",
+    "static/css/main.f195c00c.chunk.css.map": "/safebuild/static/css/main.f195c00c.chunk.css.map",
+    "static/js/2.9704305a.chunk.js.LICENSE.txt": "/safebuild/static/js/2.9704305a.chunk.js.LICENSE.txt",
+    "static/media/BirsdayKake.d99ea4cc.mp4": "/safebuild/static/media/BirsdayKake.d99ea4cc.mp4",
+    "static/media/ebi_01_HowITWorks.13750508.svg": "/safebuild/static/media/ebi_01_HowITWorks.13750508.svg",
+    "static/media/ebi_02_HowITWorks.4499e6b2.svg": "/safebuild/static/media/ebi_02_HowITWorks.4499e6b2.svg",
+    "static/media/ebi_03_HowITWorks.364736dd.svg": "/safebuild/static/media/ebi_03_HowITWorks.364736dd.svg",
+    "static/media/ebi_04_HowITWorks.47d226dc.svg": "/safebuild/static/media/ebi_04_HowITWorks.47d226dc.svg",
+    "static/media/ebi_05_ResultsOfUsers.05df7438.svg": "/safebuild/static/media/ebi_05_ResultsOfUsers.05df7438.svg",
+    "static/media/ebi_06_ResultsOfUsers.782a4814.svg": "/safebuild/static/media/ebi_06_ResultsOfUsers.782a4814.svg",
+    "static/media/ebi_07_ResultsOfUsers.a3316e32.svg": "/safebuild/static/media/ebi_07_ResultsOfUsers.a3316e32.svg",
+    "static/media/ebi_08_ResultsOfUsers.5fb5e427.svg": "/safebuild/static/media/ebi_08_ResultsOfUsers.5fb5e427.svg",
+    "static/media/ebi_09_fb.8d5cc97c.svg": "/safebuild/static/media/ebi_09_fb.8d5cc97c.svg",
+    "static/media/ebi_10_insta.b642c445.svg": "/safebuild/static/media/ebi_10_insta.b642c445.svg",
+    "static/media/ebi_11_youtube.6f9c0c46.svg": "/safebuild/static/media/ebi_11_youtube.6f9c0c46.svg",
+    "static/media/ebi_image.d253302e.svg": "/safebuild/static/media/ebi_image.d253302e.svg",
+    "static/media/InvestBlock.css": "/safebuild/static/media/ebi_image1r.72df6cee.svg",
+    "static/media/logo.6ce24c58.svg": "/safebuild/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a230f5.js",
+    "static/js/2.9704305a.chunk.js",
+    "static/css/main.f195c00c.chunk.css",
+    "static/js/main.8e23b145.chunk.js"
+  ]
+}
